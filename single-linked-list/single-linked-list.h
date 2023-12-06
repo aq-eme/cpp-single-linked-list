@@ -353,3 +353,4 @@ template <typename Type>
 bool operator>=(const SingleLinkedList<Type>& lhs, const SingleLinkedList<Type>& rhs) {
     return !(lhs < rhs);
 }
+
